@@ -22,7 +22,7 @@ From comparing many different Logistic Regression models using different subsets
 
 <img src="https://github.com/jgarnierUQ/Thesis/blob/main/pictures/logisticRegressionROCCurves.png" alt="drawing" width="700"/>
 
-From looking at the table of coefficients of the highest performing model, the following variables all had p-values < 0.05 which meant they had statistical significance and affecte the outcome of whether or not a patient had hypertension or not.
+From looking at the table of coefficients of the highest performing model, the following variables all had p-values < 0.05 which meant they had statistical significance and affected the outcome of whether or not a patient had hypertension or not.
 
 <img src="https://github.com/jgarnierUQ/Thesis/blob/main/pictures/tablecoeefsTable.PNG" alt="drawing" width="700"/>
 
